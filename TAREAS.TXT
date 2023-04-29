@@ -1,0 +1,15 @@
+-para que serviría el formulario
+-cuantos mails quiere y los nombres de dichos mails
+achicar titulo mobile
+
+CAMBIAR META DESCRIPTION Y EL RESTO
+
+AÑADIR IDIOMA Y LINKEARLO
+
+REVISAR EL ALT A LAS IMG
+
+OCULTAR LA EXTENSION .HTML
+
+PEDIR A CHATGPT QUE ME OPTIMICE EL CODIGO DE CSS SIN MODIFICACIONES VISUALES
+
+REVISADA GENERAL

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <script src="/js/recursos/head.js"></script>
+    </head>
+    <body data-bs-spy="scroll" data-bs-target="#navbarExample">
+        
+        <script src="/js/recursos/nav.js"></script>
+
+        <!-- Header -->
+        <header class="headerReservas">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 text-center">
+                        <h2 class="text-white fs-1" >Reservas</h2>
+                        <p class="p-large text-white mt-3">¿Deseas reservar una mesa? ¿O deseas reservar el lugar para un evento?</p>
+                        <div class="container d-flex justify-content-around gap-3 my-5">
+                            <a href="#mesa"><button class="btn btn-seccion fs-4 p-3 px-5">Reservar una mesa 🍽️</button></a>
+                            <a href="#lugar"><button class="btn btn-seccion fs-4 p-3 px-5">Reservar el lugar 🏛️</button></a>
+                        </div>    
+                        <img class="logoBandera mt-4" src="../images/logos/logos-01.png" alt="Bandera argentina" loading="lazy">
+                    </div> <!-- end of col -->
+                </div> <!-- end of row -->
+            </div> <!-- end of container -->
+        </header> <!-- end of header -->
+        <!-- end of header -->
+
+        <div class="container">
+            <div class="text-center my-5">
+                <div id="mesa" class="my-5">
+                    <h3 class="fs-1 text-dark">Reserva de mesa 🍽️</h3>
+                    <p class="p-large mt-3">Estas son las diferentes opciones con sus tarifas</p>
+                </div>
+                <ul class="list-unstyled">
+                    <li class="my-3 py-4 bg-gris">
+                        <h4 class="fs-3">Salon Buenos Aires</h4>
+                        <div class="d-flex justify-content-around">
+                            <ul class="text-start my-3">
+                                <li>Copa de Bienvenida champagne (bodega La Rural)</li>
+                                <li>Cena de 3 pasos</li>
+                                <li>Aguas, gaseosas, cerveza artesanal La Bohemia (Lago Puelo)</li>
+                                <li>Vinos Bodega La Rural (TRUMPETER)</li>
+                                <li>Derecho de espectáculo</li>
+                            </ul>
+                        </div>
+                        <p class="text-success fw-bold fs-5">Precio: 130 USD</p>
+                        <a href="https://api.whatsapp.com/send/?phone=5493492691132&text=Hola.%20Quiero%20reservar%20para%20el%20salon%20Buenos%20Aires&type=phone_number&app_absent=0""><button class="btn btn-seccion p-3 px-5">Reservar en salon Buenos Aires</button></a>
+                    </li>
+                    <li class="my-3 py-4 bg-gris">
+                        <h4 class="fs-3">Salon Conventillo</h4>
+                        <div class="d-flex justify-content-around">
+                            <ul class="text-start my-3">
+                                <li>Copa de Bienvenida champagne (bodega La Rural)</li>
+                                <li>Cena de 3 pasos</li>
+                                <li>Aguas, gaseosas, cerveza artesanal La Bohemia (Lago Puelo)</li>
+                                <li>Vinos Bodega La Rural (RUTINI)</li>
+                                <li>Derecho de espectáculo</li>
+                            </ul>
+                        </div>
+                        <p class="text-success fw-bold fs-5">Precio: 160 USD</p>
+                        <a href="https://api.whatsapp.com/send/?phone=5493492691132&text=Hola.%20Quiero%20reservar%20para%20el%20salon%20Conventillo&type=phone_number&app_absent=0"><button class="btn btn-seccion p-3 px-5">Reservar en salon Conventillo</button></a>
+                    </li>
+                    <li class="my-3 py-4 bg-gris">
+                        <h4 class="fs-3">Solo para Show</h4>
+                        <div class="d-flex justify-content-around">
+                            <ul class="text-start my-3">
+                                <li>Un trago o copa a elección</li>
+                                <li>Tapeo</li>
+                                <li>Derecho de espectáculo</li>
+                            </ul>
+                        </div>
+                        <p class="text-success fw-bold fs-5">Precio: 70 USD</p>
+                        <a href="https://api.whatsapp.com/send/?phone=5493492691132&text=Hola.%20Quiero%20reservar%20solo%20para%20el%20Show&type=phone_number&app_absent=0""><button class="btn btn-seccion p-3 px-5">Reservar para Show</button></a>
+                    </li>
+                </ul>
+            </div>
+
+
+            <div class="text-center my-5">
+                <div id="lugar" class="my-5">
+                    <h3 class="fs-1 text-dark">Reserva del lugar 🏛️</h3>
+                    <p class="p-large mt-3">Dispone del lugar por un tiempo limitado</p>
+                </div>
+                <p class="text-success fw-bold fs-5">Precio: 800 USD</p>
+                <a href="#"><button class="btn btn-seccion p-3 px-5">Reservar Lugar</button></a>
+            </div>
+
+
+        </div>
+
+        <script src="/js/recursos/footer.js"></script>
+
+        <!-- Copyright -->
+        <div class="copyright">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <p class="p-small">Copyright © Pasión Tango</p>
+                    </div> <!-- end of col -->
+                </div> <!-- enf of row -->
+            </div> <!-- end of container -->
+        </div> <!-- end of copyright --> 
+        <!-- end of copyright -->
+        
+
+        <!-- Back To Top Button -->
+        <button onclick="topFunction()" id="myBtn">
+            <img src="../images/up-arrow.png" alt="alternative">
+        </button>
+        <!-- end of back to top button -->
+            
+        <!-- Scripts -->
+        <script src="/js/bootstrap.min.js"></script> <!-- Bootstrap framework -->
+        <script src="/js/swiper.min.js"></script> <!-- Swiper for image and text sliders -->
+        <script src="/js/replaceme.min.js"></script> <!-- ReplaceMe for rotating text -->
+        <script src="/js/isotope.pkgd.min.js"></script> <!-- Isotope for filter -->
+        <script src="/js/scripts.js"></script> <!-- Custom scripts -->
+    </body>
+</html>
