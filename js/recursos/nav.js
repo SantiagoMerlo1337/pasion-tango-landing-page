@@ -40,7 +40,7 @@ function createNav() {
                             <img src="/images/flag-argentina.png" class="flag-icon" alt="Icono bandera Argentina">Idioma</a>
                         <ul class="dropdown-menu" aria-labelledby="dropdown01">
                             <li>
-                                <a class="dropdown-item text-decoration-none" href="en.html">
+                                <a class="dropdown-item text-decoration-none" href="/en/index.html">
                                     <img src="/images/flag-estados-unidos.png" class="flag-icon" alt="Icono bandera Estadounidense">
                                     English
                                 </a>
