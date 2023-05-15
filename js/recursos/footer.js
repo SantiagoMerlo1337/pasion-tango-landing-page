@@ -10,7 +10,7 @@ function createFooter() {
                     <div class="footer-col first">
                         <h6>Sobre el sitio</h6>
                         <p class="p-small">
-                            "Pasión Tango" es un restaurante donde la ambientación y el tango en vivo te transportarán a otra época
+                            "Pasión Tango" es un show donde la ambientación y el tango en vivo te transportarán a otra época
                              y la comida será el complemento perfecto para una noche inolvidable en Buenos Aires.</p>
                     </div> <!-- end of footer-col -->
                     <div class="footer-col second">
