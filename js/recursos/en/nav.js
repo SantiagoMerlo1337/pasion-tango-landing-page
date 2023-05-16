@@ -44,7 +44,7 @@ function createNav() {
                             </li>
                             <li><div class="dropdown-divider"></div></li>
                             <li>
-                                <a class="dropdown-item text-decoration-none" href="index.html">
+                                <a class="dropdown-item text-decoration-none" href="/index.html">
                                     <img src="/images/flag-argentina.png" class="flag-icon" alt="Icono bandera Argentina">
                                     Español
                                 </a>
