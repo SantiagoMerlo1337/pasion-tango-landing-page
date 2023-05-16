@@ -8,9 +8,5 @@ head.innerHTML = `
     <meta name="keywords" content="tango buenos aires, show en vivo, restaurante tango, restaurante show">
     <title>Pasion Tango</title>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Open+Sans:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/fontawesome-all.min.css" rel="stylesheet">
-    <link href="/css/swiper.css" rel="stylesheet">
-    <link href="/css/styles.css" rel="stylesheet">
     <link rel="icon" href="/images/favicon.png">
 `;
