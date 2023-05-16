@@ -1,5 +1,5 @@
 function createNav() {
-    const nav = document.createElement("div");
+    const nav = document.createElement("nav");
     nav.classList.add("nav");
     nav.innerHTML = `
     <!-- Navigation -->
@@ -7,12 +7,9 @@ function createNav() {
         <div class="container">
     
             <!-- Image Logo -->
-            <a class="navbar-brand" href="/en.html">
+            <a class="navbar-brand" href="/en/index.html">
                 <img class="logoNav" src="/images/logos/logos-05.png" alt="Logo Pasion Tango">
             </a> 
-    
-            <!-- Text Logo - Use this if you don't have a graphic logo -->
-            <!-- <a class="navbar-brand logo-text" href="/en.html">Pasion Tango</a> -->
     
             <button class="navbar-toggler p-0 border-0" type="button" id="navbarSideCollapse" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -21,33 +18,33 @@ function createNav() {
             <div class="navbar-collapse offcanvas-collapse" id="navbarsExampleDefault">
                 <ul class="navbar-nav ms-auto navbar-nav-scroll">
                     <li class="nav-item">
-                        <a class="nav-link" href="/en.html#header">Home</a>
+                        <a class="nav-link" href="/en/index.html#header">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/en.html#quienes-somos">About Us</a>
+                        <a class="nav-link" href="/en/index.html#quienes-somos">About Us</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/en.html#nuestro-lugar">Our Place</a>
+                        <a class="nav-link" href="/en/index.html#tarifas-reservas">Rates and Reservations</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/en.html#programa">Program</a>
+                        <a class="nav-link" href="/en/index.html#programa">Program</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/galeria/1.html">Gallery</a>
+                        <a class="nav-link" href="/en/galeria/1.html">Gallery</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-bs-toggle="dropdown" aria-expanded="false">
                             <img src="/images/flag-estados-unidos.png" class="flag-icon" alt="Icono bandera Argentina">Language</a>
                         <ul class="dropdown-menu" aria-labelledby="dropdown01">
                             <li>
-                                <a class="dropdown-item text-decoration-none" href="/en.html">
+                                <a class="dropdown-item text-decoration-none" href="/en/index.html">
                                     <img src="/images/flag-estados-unidos.png" class="flag-icon" alt="Icono bandera Estadounidense">
                                     English
                                 </a>
                             </li>
                             <li><div class="dropdown-divider"></div></li>
                             <li>
-                                <a class="dropdown-item text-decoration-none" href="/index.html">
+                                <a class="dropdown-item text-decoration-none" href="index.html">
                                     <img src="/images/flag-argentina.png" class="flag-icon" alt="Icono bandera Argentina">
                                     Español
                                 </a>
@@ -55,7 +52,7 @@ function createNav() {
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/en.html#contact">Contact</a>
+                        <a class="nav-link" href="/en/index.html#contact">Contact</a>
                     </li>
                 </ul>
                 <span class="nav-item social-icons">

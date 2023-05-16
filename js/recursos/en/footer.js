@@ -10,13 +10,13 @@ function createFooter() {
                     <div class="footer-col first">
                         <h6>Sobre el sitio</h6>
                         <p class="p-small">
-                            "Pasión Tango" es un restaurante donde la ambientación y el tango en vivo te transportarán a otra época
-                             y la comida será el complemento perfecto para una noche inolvidable en Buenos Aires.</p>
+                        "Pasión Tango" is a show where the setting and live tango will transport you to another era
+                        and the food will be the perfect complement for an unforgettable night in Buenos Aires.</p>
                     </div> <!-- end of footer-col -->
                     <div class="footer-col second">
                         <h6>Links</h6>
                         <ul class="list-unstyled li-space-lg p-small">
-                            <li>Menu: <a href="/index.html#header">Inicio</a>, <a href="/index.html#quienes-somos">Quienes Somos</a>, <a href="/index.html#nuestro-lugar">Nuestro Lugar</a>, <a href="/index.html#programa">Programa</a>, <a href="/galeria/1.html">Galería</a>, <a href="/index.html#contact">Contacto</a></li>
+                            <li>Menu: <a href="/index.html#header">Home</a>, <a href="/index.html#quienes-somos">About Us</a>, <a href="/index.html#tarifas-reservas">Rates and Reservations</a>, <a href="/index.html#programa">Program</a>, <a href="/galeria/1.html">Galery</a>, <a href="/index.html#contact">Contact</a></li>
                         </ul>
                     </div> <!-- end of footer-col -->
                     <div class="footer-col third">

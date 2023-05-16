@@ -9,10 +9,7 @@ function createNav() {
             <!-- Image Logo -->
             <a class="navbar-brand" href="/index.html">
                 <img class="logoNav" src="/images/logos/logos-05.png" alt="Logo Pasion Tango">
-            </a> 
-    
-            <!-- Text Logo - Use this if you don't have a graphic logo -->
-            <!-- <a class="navbar-brand logo-text" href="/index.html">Pasion Tango</a> -->
+            </a>
     
             <button class="navbar-toggler p-0 border-0" type="button" id="navbarSideCollapse" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
