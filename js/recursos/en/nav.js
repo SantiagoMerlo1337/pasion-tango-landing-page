@@ -24,7 +24,7 @@ function createNav() {
                         <a class="nav-link" href="/en/index.html#quienes-somos">About Us</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/en/index.html#tarifas-reservas">Rates and Reservations</a>
+                        <a class="nav-link" href="/en/index.html#tarifas-reservas">Fees and Reservations</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/en/index.html#programa">Program</a>

@@ -103,7 +103,7 @@ Colors:
 	text-shadow: 1px 1px 8px rgba(0,0,0,0.4);
 }
 .bg-tarifa{
-	background-image: url('../images/tarifa-background.jpg');
+	background-image: url('/images/tarifa-background.jpg');
 	object-fit: cover;
 	background-position: center;
 	background-size: cover;
