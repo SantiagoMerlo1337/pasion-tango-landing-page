@@ -16,7 +16,7 @@ function createFooter() {
                     <div class="footer-col second">
                         <h6>Links</h6>
                         <ul class="list-unstyled li-space-lg p-small">
-                            <li>Menu: <a href="/index.html#header">Inicio</a>, <a href="/index.html#quienes-somos">Quienes Somos</a>, <a href="/index.html#tarifas-reservas">Tarifas y Reservas</a>, <a href="/index.html#programa">Programa</a>, <a href="/galeria/1.html">Galería</a>, <a href="/index.html#contact">Contacto</a></li>
+                            <li>Menu: <a href="/#header">Inicio</a>, <a href="/#quienes-somos">Quienes Somos</a>, <a href="/#tarifas-reservas">Tarifas y Reservas</a>, <a href="/#programa">Programa</a>, <a href="/galeria/1">Galería</a>, <a href="/#contact">Contacto</a></li>
                         </ul>
                     </div> <!-- end of footer-col -->
                     <div class="footer-col third">

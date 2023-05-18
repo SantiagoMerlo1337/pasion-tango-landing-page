@@ -7,7 +7,7 @@ function createNav() {
         <div class="container">
     
             <!-- Image Logo -->
-            <a class="navbar-brand" href="/en/index">
+            <a class="navbar-brand" href="/en/">
                 <img class="logoNav" src="/images/logos/logos-05.png" alt="Logo Pasion Tango">
             </a> 
     
