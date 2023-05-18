@@ -7,7 +7,7 @@ function createNav() {
         <div class="container">
     
             <!-- Image Logo -->
-            <a class="navbar-brand" href="/">
+            <a class="navbar-brand" href="index">
                 <img class="logoNav" src="/images/logos/logos-05.png" alt="Logo Pasion Tango">
             </a>
     
@@ -44,7 +44,7 @@ function createNav() {
                             </li>
                             <li><div class="dropdown-divider"></div></li>
                             <li>
-                                <a class="dropdown-item text-decoration-none" href="">
+                                <a class="dropdown-item text-decoration-none" href="/">
                                     <img src="/images/flag-argentina.png" class="flag-icon" alt="Icono bandera Argentina">
                                     Español
                                 </a>

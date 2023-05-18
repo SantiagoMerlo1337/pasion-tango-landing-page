@@ -7,7 +7,7 @@ function createNav() {
         <div class="container">
     
             <!-- Image Logo -->
-            <a class="navbar-brand" href="/en/">
+            <a class="navbar-brand" href="/en/index">
                 <img class="logoNav" src="/images/logos/logos-05.png" alt="Logo Pasion Tango">
             </a> 
     
@@ -37,16 +37,17 @@ function createNav() {
                             <img src="/images/flag-estados-unidos.png" class="flag-icon" alt="Icono bandera Argentina">Language</a>
                         <ul class="dropdown-menu" aria-labelledby="dropdown01">
                             <li>
-                                <a class="dropdown-item text-decoration-none" href="/en/">
-                                    <img src="/images/flag-estados-unidos.png" class="flag-icon" alt="Icono bandera Estadounidense">
-                                    English
+                                <a class="dropdown-item text-decoration-none" href="/">
+                                    <img src="/images/flag-argentina.png" class="flag-icon" alt="Icono bandera Argentina">
+                                    Español
                                 </a>
                             </li>
                             <li><div class="dropdown-divider"></div></li>
                             <li>
-                                <a class="dropdown-item text-decoration-none" href="/">
-                                    <img src="/images/flag-argentina.png" class="flag-icon" alt="Icono bandera Argentina">
-                                    Español
+                                
+                                <a class="dropdown-item text-decoration-none" href="/en/">
+                                    <img src="/images/flag-estados-unidos.png" class="flag-icon" alt="Icono bandera Estadounidense">
+                                    English
                                 </a>
                             </li>
                         </ul>
