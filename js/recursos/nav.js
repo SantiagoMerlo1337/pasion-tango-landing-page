@@ -7,7 +7,7 @@ function createNav() {
         <div class="container">
     
             <!-- Image Logo -->
-            <a class="navbar-brand" href="index">
+            <a class="navbar-brand" href="/">
                 <img class="logoNav" src="/images/logos/logos-05.png" alt="Logo Pasion Tango">
             </a>
     
@@ -30,7 +30,7 @@ function createNav() {
                         <a class="nav-link" href="/#programa">Programa</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/galeria/1.html">Galería</a>
+                        <a class="nav-link" href="/galeria/1">Galería</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-bs-toggle="dropdown" aria-expanded="false">
