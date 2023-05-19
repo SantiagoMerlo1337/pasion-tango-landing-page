@@ -18,19 +18,29 @@
   <priority>0.80</priority>
 </url>
 <url>
+  <loc>https://pasiontango.ar/galeria/1</loc>
+  <lastmod>2023-05-18T21:20:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://pasiontango.ar/en/</loc>
   <lastmod>2023-05-18T21:20:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://pasiontango.ar/files/Pasion%20Tango%20-%20Programa.pdf</loc>
-  <lastmod>2023-05-18T20:41:51+00:00</lastmod>
+  <loc>https://pasiontango.ar/en/reservas</loc>
+  <lastmod>2023-05-18T21:20:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://pasiontango.ar/galeria/1</loc>
+  <loc>https://pasiontango.ar/en/galeria/1</loc>
   <lastmod>2023-05-18T21:20:41+00:00</lastmod>
-  <priority>0.80</priority>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://pasiontango.ar/files/Pasion%20Tango%20-%20Programa.pdf</loc>
+  <lastmod>2023-05-18T20:41:51+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://pasiontango.ar/galeria/2</loc>
@@ -47,6 +57,19 @@
   <lastmod>2023-05-18T21:20:41+00:00</lastmod>
   <priority>0.64</priority>
 </url>
-
-
+<url>
+  <loc>https://pasiontango.ar/en/galeria/2</loc>
+  <lastmod>2023-05-18T21:20:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pasiontango.ar/en/galeria/3</loc>
+  <lastmod>2023-05-18T21:20:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pasiontango.ar/en/galeria/4</loc>
+  <lastmod>2023-05-18T21:20:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
 </urlset>
