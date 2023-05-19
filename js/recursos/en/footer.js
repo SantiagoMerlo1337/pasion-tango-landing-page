@@ -30,7 +30,7 @@ function createFooter() {
                                 <i class="fab fa-instagram fa-stack-1x"></i>
                             </a>
                         </span>
-                        <p class="p-small">Aliquam ultrices turpis rave loro <a href="mailto:contact@site.com"><strong>contact@site.com</strong></a></p>
+                        <p class="p-small">Any questions write to our mail: <a href="mailto:gerencia@pasiontango.ar"><strong>gerencia@pasiontango.ar</strong></a></p>
                     </div> <!-- end of footer-col -->
                 </div> <!-- end of col -->
             </div> <!-- end of row -->
